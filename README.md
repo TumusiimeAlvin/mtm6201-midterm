@@ -1,4 +1,4 @@
-# SIDEWALK
+ # SIDEWALK
 
 A responsive, English-language streetwear storefront built with semantic HTML, custom CSS and vanilla JavaScript. Its dark, neon-accented look takes cues from retro city nights and underground streetwear. It is an original interpretation of the shopping website reference, designed for the MTM6201 midterm assignment.
 
